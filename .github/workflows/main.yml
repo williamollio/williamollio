@@ -14,3 +14,13 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          
+              # ... other options
+          plugin_habits: yes
+          plugin_habits_from: 200       
+          plugin_habits_days: 14        
+          plugin_habits_facts: yes      
+          plugin_habits_charts: yes     
+          plugin_habits_trim: yes       
+          config_timezone: Europe/Paris 
+          
