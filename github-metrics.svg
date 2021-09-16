@@ -1427,8 +1427,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.3665830764398" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="448.3665830764398" y="0" width="11.633416923560198" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.61670869193745" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="448.61670869193745" y="0" width="11.383291308062601" height="8" fill="#ff0000"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1438,8 +1438,8 @@
                       C
                     </div>
                             <small>
-                                <div>183 kB</div>
-                                <div>97.47%</div>
+                                <div>187 kB</div>
+                                <div>97.53%</div>
                             </small>
                         </div>
                     </section>
@@ -1451,7 +1451,7 @@
                     </div>
                             <small>
                                 <div>4.75 kB</div>
-                                <div>2.53%</div>
+                                <div>2.47%</div>
                             </small>
                         </div>
                     </section>
@@ -1479,7 +1479,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16/09/2021, 16:18  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 16/09/2021, 17:17  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
