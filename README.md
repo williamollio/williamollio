@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **push_swap**
 
-- 🌱 I’m currently learning **C / React**
+- 🌱 I’m currently coding in **C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
