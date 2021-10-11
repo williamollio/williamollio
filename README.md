@@ -20,5 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamollio&layout=compact&theme=tokyonight)](https://github.com/williamollio)
 
-[![wollio's 42 stats](https://badge42.herokuapp.com/api/stats/wollio?cursus=42cursus)](https://profile.intra.42.fr/users/wollio)
+[![wollio's 42 stats](https://badge42.herokuapp.com/api/stats/wollio?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+
 ****
