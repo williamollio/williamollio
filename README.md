@@ -20,5 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamollio&layout=compact&theme=tokyonight)](https://github.com/williamollio)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=wollio "42 Intra")](https://profile.intra.42.fr/users/wollio)
+[![wollio's 42 stats](https://badge42.herokuapp.com/api/stats/wollio?cursus=42cursus)](https://profile.intra.42.fr/users/wollio)
 ****
