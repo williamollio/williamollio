@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm William</h1>
 <h3 align="center">A tech enthusiast from France 🇫🇷 living in Germany 🇩🇪</h3>
 
-- 🔭 I’m currently working on **push_swap**
+- 🔭 I’m currently working on **minishell**
 
 - 🌱 I’m currently coding in **C**
 
