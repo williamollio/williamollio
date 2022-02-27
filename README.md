@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm William</h1>
 
-- 🔭 I’m currently working on **CPP Module**
+- 🔭 I’m currently working on the **CPP Modules** as well as **Cub3d**
 
-- 🌱 I’m currently coding in **C++**
+- 🌱 I’m currently coding in **C and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
