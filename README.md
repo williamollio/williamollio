@@ -19,6 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamollio&layout=compact&theme=tokyonight)](https://github.com/williamollio)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=wollio)](https://github.com/williamollio)
-
 ****
