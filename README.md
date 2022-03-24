@@ -15,11 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/></p>
-
- <img src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p>
-
 <br></br>
-
  <h3 align="left">For questions or feedback, reach me out on : </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/william-ollio/" target="blank">
@@ -29,5 +25,10 @@
   <img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<br></br>
+ <img src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p>
+
+
 
 
