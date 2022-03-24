@@ -26,8 +26,8 @@
 </p>
 
 <br></br>
-<center>
- <img src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p></center>
+<p align=center>
+ <img src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p>
 
 
 
