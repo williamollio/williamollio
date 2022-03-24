@@ -1,5 +1,4 @@
-# Hi 👋🏻, I'm William
-
+<h2 align="center">Hi 👋🏻, I'm William</h2>
 * 🧑🏻‍💻 I am currently studying sotfware engineering at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> which is part of a <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>.
 
 * 🌐 The 42's curriculum challenge the traditional learning model and provide an industry-leading education. Thus in order to educate the next generation of software engineers.
