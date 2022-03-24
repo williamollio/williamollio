@@ -16,7 +16,7 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/></p>
 
- <img src="https://imgur.com/Tm0GqyD"/></p>
+ <img src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p>
 
 <br></br>
 
