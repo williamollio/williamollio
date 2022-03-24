@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋🏻, I'm William</h1>
+# Hi 👋🏻, I'm William
 
 - I am currently studying sotfware engineering at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> which is part of a <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>. 🌐 The 42's curriculum challenge the traditional learning model and provide an industry-leading education. Thus in order to educate the next generation of software engineers.
   <br></br>
 ---
+
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -18,6 +19,7 @@
  <img src="https://imgur.com/Tm0GqyD"/></p>
 
 <br></br>
+
  <h3 align="left">For questions or feedback, reach me out on : </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/william-ollio/" target="blank">
