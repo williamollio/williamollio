@@ -18,16 +18,16 @@
  <h3 align="left">For questions or feedback, reach me out on : </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/william-ollio/" target="blank">
-  <img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://discord.gg/#7599" target="blank">
-  <img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br></br>
-<a>
- <img align=center src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p></a>
+<center>
+ <img src="https://github.com/williamollio/williamollio/blob/master/.gif/Imguf.gif"/></p></center>
 
 
 
